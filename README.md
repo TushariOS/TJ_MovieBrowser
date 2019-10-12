@@ -7,12 +7,11 @@ Movie BROWSER
 # Pagination
 # API Call through NSURLSession Task
 # Webservice handle by Webservice Handler 
-# Time 3 days
 # Functionality : 
-  # Movie List
-  # Sort Movie by Sort can be most popular and Higest rated
-  # Search
-  # Movie Details
+  - Movie List
+  - Sort Movie by Sort can be most popular and Higest rated
+  - Search
+  - Movie Details
   
   
   
